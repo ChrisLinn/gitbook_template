@@ -102,13 +102,14 @@
             "skipFirstH1": true
         },
         "anchor-navigation-ex": {
-            "showLevel": false,
+            "showLevel": true,
+            "associatedWithSummary": false,
             "multipleH1": false,
             "mode": "float",
             "showGoTop":true,
             "float": {
+                "floatIcon": "fa fa-navicon",
                 "showLevelIcon": true,
-                "floatIcon": "fa fa-bars",
                 "level1Icon": "fa",
                 "level2Icon": "fa fa-caret-right",
                 "level3Icon": "fa fa-caret-right"
